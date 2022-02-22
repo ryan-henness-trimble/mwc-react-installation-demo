@@ -1,6 +1,6 @@
 # MWC Steps
 
-This project contains comments with the template of '// MWC Step {step number}' for the installation steps to help walk through the code.
+This project contains comments with the template of ```// MWC Step {step number}``` for the installation steps to help walk through the code.
 
 # Getting Started with Create React App
 
